@@ -22,6 +22,10 @@
 			<artifactId>maven-surefire-plugin</artifactId>
 			<version>2.21.0</version>
 			<configuration>
+			  <configuration>
+                <source>1.8</source>
+                <target>1.8</target>
+            </configuration>
                    <!-- TestNG Suite XML files list for test execution -->
                    <suiteXmlFiles>
                        <suiteXmlFile>testng.xml</suiteXmlFile>
@@ -30,7 +34,6 @@
 		</plugin>
 	</plugins>
 </build>
-
 
  <dependencies>
 		<dependency>
