@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="16" total="21" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44986" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:59:38 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44986" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:59:38 IST">
+      <class name="testcases.TC005">
+        <test-method status="PASS" signature="setvariables()[pri:0, instance:testcases.TC005@2b9627bc]" name="setvariables" is-config="true" duration-ms="1" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:58:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setvariables -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC005@2b9627bc]" name="beforeMethod" is-config="true" duration-ms="20358" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:59:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="irctcSignUp()[pri:0, instance:testcases.TC005@2b9627bc]" name="irctcSignUp" duration-ms="17133" started-at="2020-04-04T11:59:14 IST" finished-at="2020-04-04T11:59:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- irctcSignUp -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC005@2b9627bc]" name="afterMethod" is-config="true" duration-ms="622" started-at="2020-04-04T11:59:31 IST" finished-at="2020-04-04T11:59:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testcases.TC005@2b9627bc]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-04-04T11:59:31 IST" finished-at="2020-04-04T11:59:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testcases.TC005 -->
+      <class name="testcases.TC004">
+        <test-method status="PASS" signature="setvariables()[pri:0, instance:testcases.TC004@67b92f0a]" name="setvariables" is-config="true" duration-ms="1" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:58:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setvariables -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC004@67b92f0a]" name="beforeMethod" is-config="true" duration-ms="21227" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:59:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="irctcSignUp()[pri:0, instance:testcases.TC004@67b92f0a]" name="irctcSignUp" duration-ms="23132" started-at="2020-04-04T11:59:15 IST" finished-at="2020-04-04T11:59:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- irctcSignUp -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC004@67b92f0a]" name="afterMethod" is-config="true" duration-ms="606" started-at="2020-04-04T11:59:38 IST" finished-at="2020-04-04T11:59:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testcases.TC004@67b92f0a]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-04-04T11:59:38 IST" finished-at="2020-04-04T11:59:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testcases.TC004 -->
+      <class name="testcases.TC003">
+        <test-method status="PASS" signature="setvariables()[pri:0, instance:testcases.TC003@1d16f93d]" name="setvariables" is-config="true" duration-ms="1" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:58:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setvariables -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC003@1d16f93d]" name="beforeMethod" is-config="true" duration-ms="16292" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:59:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="irctcSignUp()[pri:0, instance:testcases.TC003@1d16f93d]" name="irctcSignUp" duration-ms="17686" started-at="2020-04-04T11:59:10 IST" finished-at="2020-04-04T11:59:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- irctcSignUp -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC003@1d16f93d]" name="afterMethod" is-config="true" duration-ms="656" started-at="2020-04-04T11:59:27 IST" finished-at="2020-04-04T11:59:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testcases.TC003@1d16f93d]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-04-04T11:59:28 IST" finished-at="2020-04-04T11:59:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testcases.TC003 -->
+      <class name="testcases.TC002">
+        <test-method status="PASS" signature="setvariables()[pri:0, instance:testcases.TC002@6325a3ee]" name="setvariables" is-config="true" duration-ms="1" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:58:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setvariables -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC002@6325a3ee]" name="beforeMethod" is-config="true" duration-ms="22215" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:59:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="irctcSignUp()[pri:0, instance:testcases.TC002@6325a3ee]" name="irctcSignUp" duration-ms="14023" started-at="2020-04-04T11:59:16 IST" finished-at="2020-04-04T11:59:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- irctcSignUp -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC002@6325a3ee]" name="afterMethod" is-config="true" duration-ms="622" started-at="2020-04-04T11:59:30 IST" finished-at="2020-04-04T11:59:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testcases.TC002@6325a3ee]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-04-04T11:59:30 IST" finished-at="2020-04-04T11:59:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testcases.TC002 -->
+      <class name="testcases.TC001">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC001@3a5ed7a6]" name="beforeSuite" is-config="true" duration-ms="84" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:58:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.TC001@3a5ed7a6]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:58:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setvariables()[pri:0, instance:testcases.TC001@3a5ed7a6]" name="setvariables" is-config="true" duration-ms="1" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:58:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setvariables -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC001@3a5ed7a6]" name="beforeMethod" is-config="true" duration-ms="16264" started-at="2020-04-04T11:58:53 IST" finished-at="2020-04-04T11:59:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="irctcSignUp()[pri:0, instance:testcases.TC001@3a5ed7a6]" name="irctcSignUp" duration-ms="16733" started-at="2020-04-04T11:59:10 IST" finished-at="2020-04-04T11:59:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- irctcSignUp -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC001@3a5ed7a6]" name="afterMethod" is-config="true" duration-ms="702" started-at="2020-04-04T11:59:26 IST" finished-at="2020-04-04T11:59:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testcases.TC001@3a5ed7a6]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-04-04T11:59:27 IST" finished-at="2020-04-04T11:59:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC001@3a5ed7a6]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-04-04T11:59:38 IST" finished-at="2020-04-04T11:59:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC001@3a5ed7a6]" name="afterSuite" is-config="true" duration-ms="174" started-at="2020-04-04T11:59:38 IST" finished-at="2020-04-04T11:59:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
