@@ -23,19 +23,10 @@ public class ProjectWrappers extends GenericWrappers{
 	@BeforeMethod
 	public void beforeMethod() {
 		startTest(testCaseName, testCaseDescription);
-		switch (app) {
-		case "formC":
-			
-			break;
-		case "flipkart" :
 			invokeApp(browserName, "http://www.irctc.co.in");
-			break;
-		default:
-			invokeApp(browserName, "http://www.irctc.co.in");
-			break;
 		}
 		
-	}
+	
 	
 	@AfterMethod
 	public void afterMethod() {
